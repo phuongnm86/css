@@ -54,3 +54,12 @@ body{
     background-color: F8F8FF;
     border: 1px solid #CDCDCD;
 }
+h1{
+    color: DarkCyan;
+}
+h2{
+    color: #ee3e80;
+}
+p{
+    color: rbg(100, 100, 90);
+}
